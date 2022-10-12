@@ -29,19 +29,19 @@ The following are examples of possible synergies:
 
 ### Offices that provide a public service
 
--
--
--
+-DMV
+-Schools
+-Healthcare Offices
 
 ### Offices for support of other offices
 
--
--
+-test test 123
+-test
 -
 
 ### Both/in-between
 
--
+-something
 -
 
 ### Other tenants?

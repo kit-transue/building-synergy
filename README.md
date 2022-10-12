@@ -20,7 +20,7 @@ many of the hassles and risks of maintaining property--they can just
 worry about the business side.
 
 Sometimes the businesses in a building complement each other.
-Think of a medical building, or a building like the Columnbia Tower.
+Think of a medical building, or a building like the Columbia Tower.
 In a building that big, some of the services that one business needs
 might be provided by another business inside the same building.
 

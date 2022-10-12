@@ -29,8 +29,8 @@ The following are examples of possible synergies:
 
 ### Offices that provide a public service
 
-- King county court house
--
+-King county court house
+-police department 
 -
 
 ### Offices for support of other offices

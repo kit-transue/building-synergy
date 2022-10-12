@@ -9,7 +9,7 @@ is owned by the business that occupies it. Single-use buildings may
 be necessary (in the case of plants) or nice (offering business owners
 control over their space and a sense of long-term place).
 
-But they mean the building owner is responsible for all the thigns that
+But they mean the building owner is responsible for all the things that
 can go wrong: leaks in the roof, maintaining the parking lot, etc.
 
 ## Multi-use buildings

@@ -9,7 +9,7 @@ is owned by the business that occupies it. Single-use buildings may
 be necessary (in the case of plants) or nice (offering business owners
 control over their space and a sense of long-term place).
 
-But they mean the building owner is responsible for all the thigns that
+But they mean the building owner is responsible for all the things that
 can go wrong: leaks in the roof, maintaining the parking lot, etc.
 
 ## Multi-use buildings
@@ -20,7 +20,7 @@ many of the hassles and risks of maintaining property--they can just
 worry about the business side.
 
 Sometimes the businesses in a building complement each other.
-Think of a medical building, or a building like the Columnbia Tower.
+Think of a medical building, or a building like the Columbia Tower.
 In a building that big, some of the services that one business needs
 might be provided by another business inside the same building.
 
@@ -29,7 +29,7 @@ The following are examples of possible synergies:
 
 ### Offices that provide a public service
 
--
+- King county court house
 -
 -
 

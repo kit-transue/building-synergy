@@ -30,7 +30,7 @@ The following are examples of possible synergies:
 ### Offices that provide a public service
 
 -
--Adding police department 
+-police department 
 -
 
 ### Offices for support of other offices
